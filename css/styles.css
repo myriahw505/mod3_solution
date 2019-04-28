@@ -1,0 +1,66 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size:16px;
+	color:pink;
+}
+.navbar-default .navbar-brand {
+    float: left;
+    height: 80px;
+    padding: 25px 15px;
+    font-size: 38px;
+    line-height: 1;
+    font-family: 'Luckiest Guy', cursive;
+    color:#D04917;
+}
+.navbar-brand a{
+  font-family: 'Luckiest Guy', cursive;
+    color:#D04917;
+}
+.navbar-nav>li>a {
+    height: 80px;
+}
+.navbar-default {
+    background-color: #F9AC3D;
+    border-color: #F9AC3D;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #d04917;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #d04917;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+    border-color: #d04917;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #d04917;
+}
+.navbar-toggle {
+    margin-top: 21px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+h1 {
+    color: #758C33;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 50px;
+    border-bottom: 1px solid #758c33;
+}
+h2 {
+    color: #d04917;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.col-sx-12.chicken {
+    padding: 40px;
+    background-color: #f3dfc2;
+    color: #985914;
+    border-radius:20px;
+}
